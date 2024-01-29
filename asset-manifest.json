@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/821LAB/static/css/main.7d174888.css",
+    "main.js": "/821LAB/static/js/main.b4f52998.js",
+    "static/media/HUST.png": "/821LAB/static/media/HUST.af51bc367d4ee9b51ef8.png",
+    "index.html": "/821LAB/index.html",
+    "main.7d174888.css.map": "/821LAB/static/css/main.7d174888.css.map",
+    "main.b4f52998.js.map": "/821LAB/static/js/main.b4f52998.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d174888.css",
+    "static/js/main.b4f52998.js"
+  ]
+}
