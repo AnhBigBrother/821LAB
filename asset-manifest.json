@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/821LAB/static/css/main.7d174888.css",
-    "main.js": "/821LAB/static/js/main.3cf7663e.js",
+    "main.js": "/821LAB/static/js/main.590d5332.js",
     "static/media/HUST.png": "/821LAB/static/media/HUST.af51bc367d4ee9b51ef8.png",
     "index.html": "/821LAB/index.html",
     "main.7d174888.css.map": "/821LAB/static/css/main.7d174888.css.map",
-    "main.3cf7663e.js.map": "/821LAB/static/js/main.3cf7663e.js.map"
+    "main.590d5332.js.map": "/821LAB/static/js/main.590d5332.js.map"
   },
   "entrypoints": [
     "static/css/main.7d174888.css",
-    "static/js/main.3cf7663e.js"
+    "static/js/main.590d5332.js"
   ]
 }
