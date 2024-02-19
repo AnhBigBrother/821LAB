@@ -34,7 +34,7 @@ const Table = ({ data }) => {
                 format.push({ ...newData[x], id: x })
                 for (let i in format[format.length-1].time){
                     if (format[format.length-1].time[i] !== '---'){
-                        format[format.length-1].time[i] = eval('new ' + format[format.length-1].time[i]).toUTCString().slice(17).slice(0,8)
+                        format[format.length-1].time[i] = eval('new ' + format[format.length-1].time[i]).toString().slice(16, 24)
                     }
                 }
             }
